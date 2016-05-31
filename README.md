@@ -4,7 +4,7 @@ This is the code for the `camb_boinc2docker` application at [Cosmology@Home](htt
 
 The image expects a folder to be mounted at `/root/shared` which contains, 
 
-1. A progress template file named `progress`
+1. A progress template file named `progress_template`
 2. A subfolder where the progress will be printed out named `results`
 3. (Optionally) Some parameter files
 
